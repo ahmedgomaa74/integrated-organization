@@ -1,0 +1,54 @@
+body {
+    direction: rtl;
+    text-align: right;
+}
+
+.img-silder {
+    left: -62px;
+}
+
+.aboutus-index h2::before,
+.services h2::before,
+.news-index h2::before {
+    right: -86px;
+}
+
+.aboutus-index-img {
+    text-align: left;
+}
+
+
+.element-footer ul li{
+    text-align: right;
+    margin-right: 40px;
+
+}
+.element-end .element-footer{
+    margin-right: 0px;
+
+}
+
+.contact-footer ul li {
+    margin-right: 36px;
+
+}
+
+.contact-footer ul li i {
+    right: -49px;
+}
+
+.sub-logo-jaadara{
+    text-align: left;
+    direction: rtl;
+}
+
+.share-single .f-share,
+.share-single .t-share,
+.share-single .y-share,
+.share-single .e-share {
+    margin: 0px -3px;
+}
+.img-works h2 {
+    right: 10px;
+
+}
